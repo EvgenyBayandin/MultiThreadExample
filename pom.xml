@@ -18,6 +18,7 @@
         <module>InterruptedDemo</module>
         <module>NotifyDemo</module>
         <module>SemaphoreDemo</module>
+        <module>ExecutorsDemo</module>
     </modules>
 
     <properties>
