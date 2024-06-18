@@ -20,6 +20,7 @@
         <module>SemaphoreDemo</module>
         <module>ExecutorsDemo</module>
         <module>CallableDemo</module>
+        <module>CompletableFutureDemo</module>
     </modules>
 
     <properties>
