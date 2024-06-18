@@ -21,6 +21,7 @@
         <module>ExecutorsDemo</module>
         <module>CallableDemo</module>
         <module>CompletableFutureDemo</module>
+        <module>ParallelStreamDemo</module>
     </modules>
 
     <properties>
