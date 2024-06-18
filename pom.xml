@@ -19,6 +19,7 @@
         <module>NotifyDemo</module>
         <module>SemaphoreDemo</module>
         <module>ExecutorsDemo</module>
+        <module>CallableDemo</module>
     </modules>
 
     <properties>
